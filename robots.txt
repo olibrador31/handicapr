@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /bosse_dessus/
+Disallow: /indexi.php
+Disallow: /indexiden.php
+Disallow: /indexident.php

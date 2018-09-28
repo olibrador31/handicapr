@@ -1,0 +1,2 @@
+# Ignorer le répertoire ''cache'' :
+app/cache\_bdd.php
